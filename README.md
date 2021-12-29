@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yunfei
 - 👀 I’m like reading and programming
-- 🌱 I’m currently using Python, Golang, JS & TS
+- 🌱 I’m currently using Python, Golang, JS & TS,Vue & React.
 - 💞️ I’m currently working in Beijing China.
 - 📫 reach me:yangyunfei07@gmail.com
 
