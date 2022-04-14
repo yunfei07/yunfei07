@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yunfei
+- 👋 Hi, I’m @Eason Yang
 - 👀 I’m like reading and programming
 - 🌱 I’m currently using Python, Golang, JS & TS,Vue & React.
 - 💞️ I’m currently working in Beijing China.
