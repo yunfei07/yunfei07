@@ -3,7 +3,7 @@
 - 🌱 I’m currently using Python, Golang,Rust, JS & TS,Vue & React & WebAssembly.
 - 💞️ I’m currently working in Beijing China.
 - 📫 reach me:
-- email:yangyunfei07@gmail.com;
+- Email:yangyunfei07@gmail.com
 - weixin:yangyunfei07
 
 <!---
