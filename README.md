@@ -4,6 +4,7 @@
 - 💞️ I’m currently working in Beijing China.
 - 📫 reach me: yangyunfei07@gmail.com
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,go,vue,react)](https://skillicons.dev)
 <!---
 yunfei07/yunfei07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
